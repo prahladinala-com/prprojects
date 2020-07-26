@@ -1,6 +1,6 @@
 ## Hola, I'm [Prahlad Inala!](https://prahladinala.github.io/home) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prprojects&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prprojects&label=Views&color=blue&style=plastic" alt="prahlad inala" /> </p>
 
 <a href="https://twitter.com/prahlad78678">
   <img align="left" alt="Prahlad's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -36,7 +36,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: prahlad78678](https://img.shields.io/twitter/follow/prprojects?style=social)](https://twitter.com/prahlad78678)
+[![Twitter: prahlad78678](https://img.shields.io/twitter/follow/prahlad78678?style=social)](https://twitter.com/prahlad78678)
 [![Linkedin: prahlad-inala-a514661b0](https://img.shields.io/badge/-prprojects-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prahlad-inala-a514661b0/)](https://www.linkedin.com/in/prahlad-inala-a514661b0/)
 [![GitHub prprojects](https://img.shields.io/github/followers/prprojects?label=follow&style=social)](https://github.com/prprojects)
 [![website](https://img.shields.io/badge/PortfolioWebsite-prahlad.home-2648ff?style=flat-square&logo=google-chrome)](https://prahladinala.github.io/home)
